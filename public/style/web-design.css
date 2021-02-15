@@ -1,0 +1,106 @@
+.title {
+    font-size: 42px;
+    font-weight: 700;
+    margin: -10px;
+}
+
+.intro {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.img-col {
+    border: 1px solid #707070;
+}
+
+.img-col img {
+    width: 100%;
+}
+
+.text-col {
+    font-size: 42px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.3;
+}
+
+.title2 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.text {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+.text p {
+    border-bottom: 2px dashed #EBEDED;
+    padding-bottom: 30px;
+}
+
+.name {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.name p {
+    margin-bottom: 0;
+}
+
+.text2 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.title3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.title4 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.lista li {
+    list-style-position: inside;
+    text-align: left;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.classes {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.classe-col a:hover {
+    text-decoration: none;
+}
+
+.div-main {
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 0px 0px 6px 6px;
+}
+
+.div-main img {
+    border-radius: 6px 6px 0px 0px;
+    height: 50%;
+}
+
+.div-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #202124;
+    line-height: 1.1;
+}
+
+.div-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #A6ADB4;
+    line-height: 1.1;
+}
+

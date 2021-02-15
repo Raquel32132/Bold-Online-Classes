@@ -1,0 +1,77 @@
+/* header */
+
+strong {
+    font-weight: 700;
+}
+
+.intro {
+    font-size: 44px;
+    font-weight: 400;
+}
+
+.sub-intro {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/* colunas */
+
+.course-col a:hover{
+    text-decoration: none;
+}
+
+.course-col a{
+    color: black;
+}
+
+.div-main {
+    background: #F1F1F1; 
+}
+
+.div-title {
+    border-bottom: 3px solid #CFCFCF;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.text {
+    margin: 0;
+    color: #484848;
+}
+
+.div-text p{
+    border-bottom: 2px solid #CFCFCF;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+
+.div-btn button {
+    width: 80%;
+    height: 44px;
+    border-radius: 43px;
+    box-shadow: 0px 3px 6px #00000029;
+    background: #27AE60;
+    color: white;
+    font-size: 16;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border: none;
+}
+
+.div-btn button:hover {
+    transition: background-color 0.5s;
+    background: #239954;
+} 
+
+.courses-link {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+.courses-link:hover {
+    color: black;
+}

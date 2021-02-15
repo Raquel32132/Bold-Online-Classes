@@ -1,0 +1,60 @@
+.gradient {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 50%);
+}
+
+strong {
+    font-weight: 700;
+}
+
+.intro {
+    font-weight: 300;
+    color: #4B4B4B;
+    font-size: 40px;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.courses-link {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.courses-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.zoom {
+    transition: transform .5s; 
+    width: auto;
+    height: auto;
+    filter: brightness(70%);
+}
+  
+.zoom:hover {
+    transform: scale(1.1);
+    z-index:2;
+    filter: brightness(100%);
+}
+
+span {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    cursor: default;
+    font-size: 18px;
+    display: none;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 40px;
+}
+
+.zoom:hover span {
+    display: block;
+}
+

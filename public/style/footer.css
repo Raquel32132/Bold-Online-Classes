@@ -1,0 +1,31 @@
+.contact-text {
+    color: #4B4B4B;
+    font-size: 16px;
+    margin-bottom: 8px;
+    word-spacing: 2px;
+    font-weight: 700;
+}
+
+.contact-button {
+    background: #FF0000;
+    padding: 20px 60px 20px 60px;
+    border-radius: 43px;
+    box-shadow: 0px 3px 6px #00000029;
+    font-weight: 700;
+    color: white;
+    font-size: 16;
+    word-spacing: 2px;
+}
+
+.contact-button:hover {
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.5s;
+    background-color: #d60606;
+}
+
+.trademark {
+    color: #4B4B4B;
+    font-size: 12px;
+    font-weight: 700;
+}
